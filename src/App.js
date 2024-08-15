@@ -15,9 +15,9 @@ function App() {
       <Home/>
       <Portfolio/>
       <Services/>
-      <Contact/>
+      {/* <Contact/>
       <FAQ/>
-      <Footer/>
+      <Footer/> */}
     </React.Fragment>
   );
 }
